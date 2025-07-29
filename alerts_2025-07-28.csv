@@ -1,0 +1,7 @@
+timestamp,sid,signature,classification,priority,protocol,src_ip,src_port,dst_ip,dst_port
+2025-07-28 22:03:07,1:2100366:8,GPL ICMP PING *NIX,Misc activity,3,ICMP,10.41.128.85,8,217.160.0.187,0
+2025-07-28 22:03:07,1:9990002:1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.85,8,217.160.0.187,0
+2025-07-28 22:14:37,1:2100366:8,GPL ICMP PING *NIX,Misc activity,3,ICMP,10.41.128.85,8,217.160.0.187,0
+2025-07-28 22:14:37,1:9990002:1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.85,8,217.160.0.187,0
+2025-07-28 22:46:51,1:2022973:1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85,68,10.41.128.99,67
+2025-07-28 22:49:09,1:2022973:1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0,68,255.255.255.255,67

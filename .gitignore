@@ -1,3 +1,25 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environments
+venv/
+venv-suricata/
+
+# Ignore logs but keep samples manually
+*.log
+ai-ids-logs/
+alerts_20*.csv
+alerts_20*.json
+
+# Keep one sample alert
+!alerts_2025-07-28.csv
+!alerts_2025-07-28.json
+
+# Editor and system files
+.DS_Store
+*.swp
 dataset/
 dataset/
 dataset/
