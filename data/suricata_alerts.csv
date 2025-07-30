@@ -1,0 +1,326 @@
+Timestamp,GID,SID,Rev,Message,Classification,Priority,Protocol,Traffic
+07/27/2025-22:13:49.599409,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+07/27/2025-22:13:50.157035,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+07/27/2025-22:23:27.962195,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+07/27/2025-22:23:27.974494,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+07/27/2025-22:27:04.354662,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+07/27/2025-22:27:04.354661,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:0000:0000:0000:0002:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+07/27/2025-22:27:04.367044,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+07/27/2025-22:27:04.367043,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+07/27/2025-23:03:36.491556,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:03:36.491573,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.85:0 -> 10.41.128.139:0
+07/27/2025-23:04:08.354423,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:133 -> ff02:0000:0000:0000:0000:0000:0000:0002:0
+07/27/2025-23:07:01.559851,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:07:01.559874,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.85:0 -> 10.41.128.139:0
+07/27/2025-23:08:32.598317,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:133 -> ff02:0000:0000:0000:0000:0000:0000:0002:0
+07/27/2025-23:08:32.598315,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:133 -> ff02:0000:0000:0000:0000:0000:0000:0002:0
+07/27/2025-23:17:32.354247,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:133 -> ff02:0000:0000:0000:0000:0000:0000:0002:0
+07/27/2025-23:17:32.354250,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:133 -> ff02:0000:0000:0000:0000:0000:0000:0002:0
+07/27/2025-23:20:43.632371,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:20:43.632394,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.85:0 -> 10.41.128.139:0
+07/27/2025-23:20:43.632371,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:20:43.632394,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.85:0 -> 10.41.128.139:0
+07/27/2025-23:20:43.632373,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:20:43.632395,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.85:0 -> 10.41.128.139:0
+07/27/2025-23:28:07.233540,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:28:07.233540,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:28:07.233563,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.85:0 -> 10.41.128.139:0
+07/27/2025-23:28:08.237523,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:28:09.242548,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:28:10.256180,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:29:56.931518,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:30:57.136955,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:31:57.277122,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:32:27.969542,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:32:28.973185,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:32:29.979955,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:32:30.994201,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:32:58.191103,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:33:58.682741,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:34:40.222777,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:133 -> ff02:0000:0000:0000:0000:0000:0000:0002:0
+07/27/2025-23:34:59.178648,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:35:59.872755,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:37:00.283483,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:38:00.659659,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:39:01.544592,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:39:52.557164,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:39:52.557164,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:39:52.557185,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.85:0 -> 10.41.128.139:0
+07/27/2025-23:39:52.557162,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:39:52.557162,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:39:52.557185,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.85:0 -> 10.41.128.139:0
+07/27/2025-23:39:53.561227,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:39:53.561225,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:39:54.566731,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:39:54.566733,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:39:55.574465,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:39:55.574470,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:40:02.407790,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:40:02.407757,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:41:02.628275,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:41:02.628271,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:42:03.160877,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:42:03.160872,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:43:04.108617,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:43:04.108620,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:44:05.076456,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:44:05.076459,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:45:05.419177,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:45:05.419173,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:45:08.718309,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:45:08.718309,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:45:08.718329,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.85:0 -> 10.41.128.139:0
+07/27/2025-23:45:08.718307,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:45:08.718307,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:45:08.718328,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.85:0 -> 10.41.128.139:0
+07/27/2025-23:45:09.722722,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:45:09.722724,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:45:10.730828,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:45:10.730830,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:45:11.738958,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:45:11.738962,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/27/2025-23:46:05.916233,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:46:05.916231,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:47:06.230511,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:47:06.230514,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:48:06.571439,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:48:06.571436,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:49:06.691448,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:49:06.691441,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:50:06.763032,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:50:06.763039,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:51:06.999111,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:51:06.999115,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:52:07.604993,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:52:07.604997,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/27/2025-23:52:26.926388,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/27/2025-23:52:26.926391,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/27/2025-23:53:27.528202,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/27/2025-23:53:27.528206,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/27/2025-23:54:28.378731,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/27/2025-23:54:28.378727,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/27/2025-23:55:28.571817,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/27/2025-23:55:28.571815,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/27/2025-23:56:28.861204,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/27/2025-23:56:28.861202,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/27/2025-23:57:29.098045,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/27/2025-23:57:29.098046,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/27/2025-23:58:29.900073,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/27/2025-23:58:29.900069,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/27/2025-23:59:30.113155,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/27/2025-23:59:30.113150,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/28/2025-00:00:03.863126,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/28/2025-00:00:03.863129,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/28/2025-00:00:06.183107,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/28/2025-00:00:06.183102,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/28/2025-00:00:10.627408,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/28/2025-00:00:10.627413,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/28/2025-00:00:19.431672,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/28/2025-00:00:19.431674,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/28/2025-00:00:36.018590,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/28/2025-00:00:36.018592,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/28/2025-00:00:42.140446,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/28/2025-00:00:42.140447,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/28/2025-00:00:42.158665,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,0000:0000:0000:0000:0000:0000:0000:0000:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+07/28/2025-00:00:42.158666,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,0000:0000:0000:0000:0000:0000:0000:0000:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+07/28/2025-00:00:42.642365,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,0000:0000:0000:0000:0000:0000:0000:0000:135 -> ff02:0000:0000:0000:0000:0001:ffa9:22d1:0
+07/28/2025-00:00:42.642367,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,0000:0000:0000:0000:0000:0000:0000:0000:135 -> ff02:0000:0000:0000:0000:0001:ffa9:22d1:0
+07/28/2025-00:00:43.666195,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+07/28/2025-00:00:43.666196,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
+07/28/2025-00:00:43.864505,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:133 -> ff02:0000:0000:0000:0000:0000:0000:0002:0
+07/28/2025-00:00:43.864508,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:133 -> ff02:0000:0000:0000:0000:0000:0000:0002:0
+07/28/2025-00:00:48.125445,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/28/2025-00:00:48.125443,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/28/2025-00:01:44.198043,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:133 -> ff02:0000:0000:0000:0000:0000:0000:0002:0
+07/28/2025-00:01:44.198045,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:133 -> ff02:0000:0000:0000:0000:0000:0000:0002:0
+07/28/2025-00:02:48.062787,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:133 -> ff02:0000:0000:0000:0000:0000:0000:0002:0
+07/28/2025-00:02:48.062790,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:133 -> ff02:0000:0000:0000:0000:0000:0000:0002:0
+07/28/2025-00:04:49.429498,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:04:49.429498,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:04:49.430434,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.85:0 -> 10.41.128.139:0
+07/28/2025-00:04:49.429496,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:04:49.429496,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:04:49.430434,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.85:0 -> 10.41.128.139:0
+07/28/2025-00:04:49.429494,1,9990001,1,[TEST] ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:04:50.435075,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:04:50.435072,1,9990001,1,[TEST] ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:04:50.435081,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:04:51.209069,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:133 -> ff02:0000:0000:0000:0000:0000:0000:0002:0
+07/28/2025-00:04:51.209071,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:133 -> ff02:0000:0000:0000:0000:0000:0000:0002:0
+07/28/2025-00:04:51.450175,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:04:51.450174,1,9990001,1,[TEST] ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:04:51.450178,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:04:52.459911,1,9990001,1,[TEST] ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:04:52.459917,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:04:52.459913,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:08:48.694108,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:133 -> ff02:0000:0000:0000:0000:0000:0000:0002:0
+07/28/2025-00:08:48.694106,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:133 -> ff02:0000:0000:0000:0000:0000:0000:0002:0
+07/28/2025-00:11:50.396853,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:11:50.396853,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:11:50.396868,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.85:0 -> 10.41.128.139:0
+07/28/2025-00:11:50.396852,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:11:50.396852,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:11:50.396868,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.85:0 -> 10.41.128.139:0
+07/28/2025-00:11:51.396994,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:11:50.396851,1,9990001,1,[TEST] ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:11:51.396993,1,9990001,1,[TEST] ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:11:51.396995,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:11:52.404245,1,9990001,1,[TEST] ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:11:52.404246,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:11:52.404248,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:11:53.406813,1,9990001,1,[TEST] ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:11:53.406814,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:11:53.406815,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:16:33.599769,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:133 -> ff02:0000:0000:0000:0000:0000:0000:0002:0
+07/28/2025-00:16:33.599772,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:133 -> ff02:0000:0000:0000:0000:0000:0000:0002:0
+07/28/2025-00:30:45.199004,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:30:45.199003,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:30:45.199003,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:30:45.199003,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:31:44.398639,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:133 -> ff02:0000:0000:0000:0000:0000:0000:0002:0
+07/28/2025-00:31:44.398635,1,1000001,1,ICMP Packet Detected,(null),3,IPv6-ICMP,fe80:0000:0000:0000:79d1:bef6:b3a9:22d1:133 -> ff02:0000:0000:0000:0000:0000:0000:0002:0
+07/28/2025-00:31:46.100343,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:31:46.100336,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:31:46.100333,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:31:46.100329,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:32:46.493506,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:32:46.493509,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:32:46.493506,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:32:46.493504,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:33:46.841739,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:33:46.841741,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:33:46.841744,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:33:46.841737,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:34:47.818681,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:34:47.818683,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:34:47.818682,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:34:47.818685,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:35:48.464279,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:35:48.464291,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:35:48.464284,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:35:48.464282,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:36:48.626188,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:36:48.626176,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:36:48.626182,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:36:48.626179,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:37:49.308895,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:37:49.308892,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:37:49.308893,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:37:49.308892,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:38:49.536383,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:38:49.536382,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:38:49.536387,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:38:49.536381,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:39:49.802631,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:39:49.802631,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:39:49.802629,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:39:49.802633,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:39:49.802630,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:40:30.506257,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:40:30.506258,1,9990001,1,[TEST] ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:40:30.506258,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:40:30.506258,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:40:30.506274,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.85:0 -> 10.41.128.139:0
+07/28/2025-00:40:30.506259,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:40:30.506259,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:40:30.506275,1,1000001,1,ICMP Packet Detected,(null),3,ICMP,10.41.128.85:0 -> 10.41.128.139:0
+07/28/2025-00:40:30.506257,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:40:31.508582,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:40:31.508587,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:40:31.508583,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:40:31.508584,1,9990001,1,[TEST] ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:40:31.508585,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:40:32.516902,1,9990001,1,[TEST] ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:40:32.516904,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:40:32.516898,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:40:32.516908,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:40:32.516901,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:40:33.527668,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:40:33.527673,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:40:33.527669,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:40:33.527672,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:40:33.527670,1,9990001,1,[TEST] ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:40:50.188215,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:40:50.188216,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:40:50.188213,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:40:50.188220,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:40:50.188212,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:41:50.863135,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:41:50.863136,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:41:50.863142,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:41:50.863137,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:41:50.863138,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:42:51.028889,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:42:51.028891,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:42:51.028890,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:42:51.028887,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:42:51.028895,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:43:51.834907,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:43:51.834908,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:43:51.834910,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:43:51.834905,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:43:51.834915,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:43:58.978453,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:43:58.978458,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:43:58.978454,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:43:58.978456,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:43:59.983847,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:43:58.978455,1,9990001,1,[TEST] ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:43:59.983849,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:43:59.983844,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:43:59.983845,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:44:00.991804,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:44:01.993260,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:43:59.983846,1,9990001,1,[TEST] ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:44:00.991805,1,9990001,1,[TEST] ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:44:01.993261,1,9990001,1,[TEST] ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:44:52.826108,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:44:52.826101,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:44:00.991806,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:44:00.991808,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:44:01.993263,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:44:01.993261,1,1000002,1,ICMP Echo Request (Ping) Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:44:52.826104,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:44:52.826103,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-00:44:00.991803,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:44:01.993258,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-00:44:52.826100,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:06:18.785825,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-01:06:19.789841,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-01:06:20.795430,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-01:06:21.799727,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-01:10:40.868368,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-01:10:41.875304,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-01:10:42.892722,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-01:10:43.906245,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-01:16:45.205710,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:17:45.101899,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:18:45.773524,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:19:46.171155,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:20:47.099232,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:21:47.710908,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:22:48.205036,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:23:49.182648,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:24:49.256386,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:25:49.770614,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:26:50.353005,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:27:51.067287,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:28:51.374308,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:29:52.091651,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:30:53.036156,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:31:53.757932,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:32:53.779250,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:33:53.973509,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:34:54.038752,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:35:54.617800,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:36:54.717695,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:37:02.072693,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-01:37:03.078723,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-01:37:04.090609,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-01:37:05.094713,1,9990002,1,[TEST] ANY ICMP Echo Request Detected,(null),3,ICMP,10.41.128.139:8 -> 10.41.128.85:0
+07/28/2025-01:37:55.036840,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:38:55.202593,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,10.41.128.85:68 -> 10.41.128.99:67
+07/28/2025-01:39:15.089255,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/28/2025-01:40:15.525914,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/28/2025-01:41:15.862977,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
+07/28/2025-01:42:16.661752,1,2022973,1,ET INFO Possible Kali Linux hostname in DHCP Request Packet,Potential Corporate Privacy Violation,1,UDP,0.0.0.0:68 -> 255.255.255.255:67
